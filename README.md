@@ -26,9 +26,11 @@ Application can can be viewed here:
 
 ## Screenshot(S)
 Rock Paper Scissors Game
+
 ![Screenshot](assets/images/game.png "Rock Paper Scissors Game")
 
 Rock Paper Scissors Game Example
+
 ![Screenshot](assets/images/game-example.png "Rock Paper Scissors Game Example")
 
 ## Credit
