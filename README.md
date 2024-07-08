@@ -6,6 +6,12 @@ The Rock Paper Scissors Game Web App is a fun and interactive application where 
 ## Prerequisites
 N/A
 
+## Features
+* Play Rock Paper Scissors game againt the computer.
+* Display the user's choice, computer's choice and result.
+* Track the score of the user and the computer.
+* Responsive design for mobile and desktop devices.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -16,7 +22,10 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the Rock Paper Scissors game web application in your browser.
+* Select one of the three options: Rock, Paper or Scissors.
+* View the result of the game, which will display your choice, the computer's choice and the outcome (win, lose or draw).
+* Enjoy the game!!!.
 
 ## Project Link
 Application can can be viewed here: 
